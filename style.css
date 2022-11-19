@@ -68,10 +68,10 @@ button:focus
     box-shadow: 0px 4px 27px -12px #f319e1;
 }
 .a-clock{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     image-orientation: right;
-    position:inherit;
+    position:;
     transform: rotate(180deg);
     margin-bottom: 20px;
 }
