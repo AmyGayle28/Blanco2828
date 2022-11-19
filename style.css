@@ -70,8 +70,8 @@ button:focus
 .a-clock{
     width: 150px;
     height: 150px;
-    image-orientation: right;
-    position:;
+    image-orientation: top;
+    position:inherit;
     transform: rotate(180deg);
     margin-bottom: 20px;
 }
@@ -92,15 +92,15 @@ button:focus
     transform-origin: top;
 }
 .a-clock .h{
-    height: 60px;
+    height: 30px;
     background-color: #130f40;
 }
 .a-clock .m{
-    height: 80px;
+    height: 40px;
     background-color: #ff3f34;
 }
 .a-clock .s{
-    height: 100px;
+    height: 50px;
     background-color: #3c40c6;
 }
 
